@@ -57,11 +57,11 @@ class Home extends Component {
             >
               <br />
               <h2 className="featurette-heading">
-                What is <span className="text-muted">EngagementML?</span>
+                What is <span className="text-muted">GucciPlate?</span>
               </h2>
               <p className="lead">
-                Very simple! It is a machine learning application that predicts
-                social media engagement.
+                Very simple! It is a react bootstraped with bunch of gumbo, love
+                and a few other spices.
               </p>
               <a href="/#top">
                 <button className="btn btn-success center">Learn More</button>
@@ -86,7 +86,7 @@ class Home extends Component {
           <div className="container">
             <img
               className="featurette-image img-fluid mx-auto"
-              //   src={screenshot}
+              src="https://source.unsplash.com/random/1600x800?modern"
               alt=""
             />
           </div>
